@@ -4,3 +4,7 @@ Hi there, my name is Keven I'm from UK but I'm brazilian, I'm a future developer
 
 ## Skills
 *💻 Python, C#, CSS, SCSS, HTML, JAVASCRIPT
+
+##Stats
+
+https://github-readme-stats.vercel.app/api?username=kauaw19&theme=dark&show_icons=true
